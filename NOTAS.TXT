@@ -1,0 +1,1 @@
+Si existe un error de FILE-ZIP En el php.init Buscar la Extencion -ZIP
